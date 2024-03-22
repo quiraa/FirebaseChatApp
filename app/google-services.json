@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984462786406",
+    "project_id": "kotlin-chat-app-5fa56",
+    "storage_bucket": "kotlin-chat-app-5fa56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984462786406:android:c719faf201cfb8a160d2a7",
+        "android_client_info": {
+          "package_name": "com.quiraadev.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984462786406-do09qmrbplu06oi91r15t86spqq0dh22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quiraadev.firebasechatapp",
+            "certificate_hash": "37f3cb56a7c4f36244a770f1e54f75eaf6533b54"
+          }
+        },
+        {
+          "client_id": "984462786406-hanobbq4osoum6qtk1sflgreki73me6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACw7djIEM-awc-iZ6kaDuWUARARhOQle4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984462786406-hanobbq4osoum6qtk1sflgreki73me6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

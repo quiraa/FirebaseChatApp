@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseChatApp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="default_web_client_id">default</string>
+</resources>
