@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "984462786406",
+    "firebase_url": "https://kotlin-chat-app-5fa56-default-rtdb.firebaseio.com",
     "project_id": "kotlin-chat-app-5fa56",
     "storage_bucket": "kotlin-chat-app-5fa56.appspot.com"
   },
